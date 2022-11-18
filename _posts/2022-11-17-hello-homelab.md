@@ -9,11 +9,11 @@ tags: [servers,lenovo]     # TAG names should always be lowercase
 
 Hello and welcome to my homelab docs site!
 
-This is mostly a test b
+This will be my attempt to document the inner workings of my homelab, learn markdown, and overall learn how to better communicate what these systems do, at a high and low level. This will be mostly internal but I may use it as reference for family or friends. I doubt anyone will have fun reading this but for what it's worth, have fun!
 
 ## Hardware
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Here is my current hardware setup
 
 * one
 * two
