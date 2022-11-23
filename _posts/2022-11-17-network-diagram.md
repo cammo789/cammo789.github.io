@@ -18,3 +18,5 @@ You'll also probably notice that long list of containers on the left. I'll detai
 
 ## Future Network
 
+![HP-290-glowing](hp290_glow.png)
+_The network savior?_
