@@ -83,7 +83,7 @@ img_cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: img/kep-wedding.jpg
 # avatar: https://i.imgur.com/pRmmExl.jpg
-# avatar: https://pbs.twimg.com/profile_images/1286144221217316864/qIAsKOpB_400x400.jpg
+# avatar: https://pbs.twimg.com/profile_images/12861442212176864/qIAsKOpB_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
