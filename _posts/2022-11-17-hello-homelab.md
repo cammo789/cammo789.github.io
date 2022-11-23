@@ -15,53 +15,8 @@ Most of this I pieced together during Covid lockdown from Slickdeals using info 
 
 I plan to keep expanding this. The next goal is to continue buildling out the proxmox server with Windows Active Directory. 
 
-I am also close to ordering hardware (HP S01) for a pfsense router. I figure before I deploy all these [IoT](https://en.wikipedia.org/wiki/Internet_of_things) devices (our current home lighting  desperately needs a revamp (and I want to play with Christmas lights!!)), I should to get my network properly layed out so as to not unintentionally bottleneck it in the future. More to come!
-
-
-## Hardware
-
-Here is my current hardware setup:
-
-##### Lenovo ThinkCentre M90n i5-8365U 8GB RAM (plex transcoder)
-![Tiny but powerful!](https://i.pcmag.com/imagery/reviews/02m7Tthdrrk2dqkcGTlmsHd-27.fit_scale.size_1028x578.v1579618985.jpg)
-_Tiny but powerful!_
-
-##### 4x6TB Linux-based NAS (Docker containers)
-![Fractal Design Node 804](https://www.fractal-design.com/app/uploads/2019/06/NODE-804-BL_3.jpg)
-_Case: Fractal Design Node 804_
-
-
-##### Lenovo M710q i5-6500T 32GB RAM (proxmox server)
-![Another lenovo baby](https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8OTIwNDd8aW1hZ2UvcG5nfGhiOC9oYjcvOTQwMTk2ODI2MzE5OC5wbmd8NTE0NWZiNDhiYzY2MTEwZTYxOWZjNzEzMmFmMDYxNjQ4MDYwMzBlMDdkZjM5ZDIzMDgxOTZmYzVmNGVkZGZhOQ/lenovo-thinkCentre-M910-M710-tiny-hero.png)
-_Can't get enough Lenovo_
-
-
-* three
-* four
+I am also close to ordering hardware for a pfsense router. I figure before I deploy all these [IoT](https://en.wikipedia.org/wiki/Internet_of_things) devices, I should to get my network properly layed out so as to not unintentionally bottleneck it in the future. Most importantly, I want to play with Christmas lights! 
 
 ```javascript
-console.log('hello world!');
+console.log('Aloha Homelab!');
 ```
-
-```yml
-name: 'push-remote'
-
-on:
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
-```
-
-```bash
-sudo apt update && sudo apt upgrade
-```
-
-
-## Photos
-
-![img-description](https://pbs.twimg.com/media/FJAFshwXoAEf9HV?format=jpg&name=large)
-_My Lab_
