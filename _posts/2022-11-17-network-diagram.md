@@ -3,13 +3,14 @@ title: 2022 Network Diagram
 date: 2022-11-22 15:30:00 -500
 categories: [homelab, network, diagram, netgear]
 tags: [network, diagram, netgear]     # TAG names should always be lowercase
+img_path: /img/
 ---
 
 # Welcome
 
 ## Network
 
-![Network-Diagram-2022](/assets/img/netdiag_20221122.jpg)
+![Network-Diagram-2022](netdiag_20221122.jpg)
 _Your standard home network.._
 
 Here is my home network. Everything is tied to the Netgear mesh router, which consists of one main unit and two satellite access points. The satellite units help with coverage on the property, but since it's still all one network, things will start to become limited if there are any high-bandwidth apps/streaming/etc. Additional satellite APs can be added later to further extend coverage. 
