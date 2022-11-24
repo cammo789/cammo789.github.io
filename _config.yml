@@ -21,7 +21,7 @@ timezone: America/Chicago
 
 title: HomeLab Docs                          # the main title
 
-tagline: A Docs site for my homelab   # it will display as the sub-title
+tagline: Documenting Cam's Homelab   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
